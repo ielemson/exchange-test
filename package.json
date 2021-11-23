@@ -1,6 +1,6 @@
 {
-  "homepage": "http://Goldtek.github.io/exchange",
-  "name": "exchange",
+  "homepage": "https://github.com/ielemson/exchange-test",
+  "name": "exchange-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
